@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
 
   // EMAILJS CONFIGURATION
@@ -114,6 +115,22 @@ document.addEventListener('DOMContentLoaded', () => {
   // PROJECT DETAILS DATA
 
   const projectData = {
+
+    'f5-cosmetics': {
+      tag: 'E-Commerce • JavaScript • Node.js',
+      title: 'F5Cosmetics E-Commerce Platform',
+      desc: 'An e-commerce platform developed to provide customers with an online shopping experience for cosmetics and beauty products.',
+      tech: [
+        'JavaScript',
+        'Node.js',
+        'Supabase',
+        'HTML5',
+        'CSS3',
+        'Git'
+      ],
+      repo: 'https://github.com/Mkocia500/f5cosmetics',
+      demo: ''
+    },
 
     ecommerce: {
       tag: 'Web App • React',
